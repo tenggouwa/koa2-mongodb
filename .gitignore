@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.vscode/*
+node_modules/*
+dist/*
+.cache/*
+package-lock.json
+npm-debug.log
+yarn-error.log
+
