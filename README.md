@@ -56,6 +56,25 @@
 /router.js|路由地址，输出接口地址
 
 
+### mongoDB操作
+
++ 保存数据
+  + `save()`
++ 查取数据
+  + 查询 `find()`   `finOne()`
+  + `where()`
++ 更改数据
+  + `where().update()`
++ 删除数据
+  + `where().remove()`
++ 排序
+  + `find().sort()`
++ 分页
+  + `find().sort().skip(页码).limit(单页数据)`
+
+
+
+
 
 
 未完待续
