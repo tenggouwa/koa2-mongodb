@@ -16,7 +16,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "koa2-cors": "^2.0.6",
-    "log4js": "^4.3.2",
+    "log4js": "^6.4.0",
     "mongoose": "^5.6.1",
     "nodemon": "^1.19.1",
     "pm2": "^3.5.1"
